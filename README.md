@@ -1,4 +1,4 @@
-Django Starter Framewoek
+Django Starter Framework
 ====================
 
 Features
